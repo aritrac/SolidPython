@@ -30,3 +30,7 @@ print(4 * 3.75 - 1)
 tax = 12.5 / 100
 price = 100.50
 print( price * tax )
+
+#print(price + _)  # Accessing previous operation result using _ in console
+
+#print(round(_,2)) # Same as above
